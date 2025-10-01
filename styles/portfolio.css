@@ -189,5 +189,10 @@ main{
 .section-tc-items{
     background-color: white;
     width: 230px;
+    position: relative;
 
 }
+
+ .section-tc-items-content h4{
+    text-align: center;
+ }
