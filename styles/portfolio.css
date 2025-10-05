@@ -91,6 +91,7 @@ nav ul{
     font-size: 20px;
     font-weight: bold;
  }
+
  
 
 /* Banner styles*/
@@ -196,3 +197,50 @@ main{
  .section-tc-items-content h4{
     text-align: center;
  }
+
+
+
+
+ /*Resume section styles*/
+
+
+ .resume-column h3{
+    font-size: 30px;
+    font-weight: bold;
+ }
+
+ .edu-skills{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    
+ }
+
+
+  .column-elements .skill-title{
+    font-size: 20px;
+    font-weight:bold;
+    margin-bottom: 8px;
+  }
+
+ 
+    .column-elements .skill-submain{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0;
+  }
+
+    .column-elements p{
+    font-size: 18px;
+    color: #757575;
+    margin-top:0;
+    }
+
+  
+.button-container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
